@@ -9,6 +9,7 @@ pip install -r requirements.txt
 ```
 
 ## Project consist of:
+- Notebooks in html format (jupyter_html directory)
 - Data preparation (data_preparation directory with jupyter notebook)
 - Dataset (dataset directory)
 - Tools for evaluating and testing (evaluation_and_testing package)
